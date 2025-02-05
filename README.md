@@ -19,3 +19,5 @@ CSE student | Passionate about MERN, Laravel, and backend development 🚀
 [![](https://visitcount.itsvg.in/api?id=ibrahimemon3&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+![snake gif](https://github.com/ibrahimemon3/ibrahimemon3/blob/output/github-snake.svg)
